@@ -1,0 +1,43 @@
+.header {
+  background-color: #B7D8CC;
+}
+
+.apretiate {
+  background-color: #EDF5F2;
+  font-weight: bold;
+  margin-top: 50%;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.center {
+  text-align: center;
+}
+
+.table>tbody>tr>td {
+    vertical-align: middle;
+}
+
+.question {
+  background-color: white;
+  margin-top: 50%;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+  display: flex;
+    font-family: 'Open Sans', sans-serif;
+    align-items: center;
+    justify-content: center;
+}
+
+#home-container {
+  margin-top: 5%;
+  width: 80%;
+}
